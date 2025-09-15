@@ -8,8 +8,11 @@
 
 <body>
     <form method="POST">
-        Masukkan Nama: <input type="text" name="nama">
-        <input type="submit" value="Kirim">
+
+        <Label for = 'nama'>Masukkan nama</Label>
+        
+        <input type="text" id = 'nama' name="nama">
+        <input  type="submit" value="Kirim">
     </form>
 
     <?php
