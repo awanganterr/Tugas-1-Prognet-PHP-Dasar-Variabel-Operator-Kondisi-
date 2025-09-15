@@ -3,6 +3,9 @@
 <head>
     <title>Kalkulator</title>
 </head>
+
+<h1>Kalkulator</h1>
+
 <body>
     <form method="POST">
         Angka 1: <input type="number" name="angka1"><br>
